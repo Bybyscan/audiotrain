@@ -2,6 +2,7 @@
 
 ```bash
 pip install git+https://github.com/bybyscan/audiotrain.git
+```
 
 ### Как библиотека
 
@@ -43,7 +44,7 @@ asyncio.run(run_bot(config))
 
 - Python 3.8+
 - FFmpeg (должен быть установлен в системе)
-```
+
 
 ## Как опубликовать и установить
 
