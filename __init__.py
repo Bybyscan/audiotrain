@@ -1,4 +1,5 @@
 """AudioTrain - библиотека для транскрибации и анализа аудио"""
+# @Bybyscan 09.04.2025
 from .config import Config
 from .audio_processor import AudioProcessor
 from .transcriber import Transcriber
